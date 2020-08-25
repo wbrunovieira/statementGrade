@@ -1,0 +1,12 @@
+/Users/walterbrunopradovieira/repos/statementGrade/statementGrade/obj/Debug/netcoreapp3.1/statementGrade.csprojAssemblyReference.cache
+/Users/walterbrunopradovieira/repos/statementGrade/statementGrade/obj/Debug/netcoreapp3.1/statementGrade.AssemblyInfoInputs.cache
+/Users/walterbrunopradovieira/repos/statementGrade/statementGrade/obj/Debug/netcoreapp3.1/statementGrade.AssemblyInfo.cs
+/Users/walterbrunopradovieira/repos/statementGrade/statementGrade/obj/Debug/netcoreapp3.1/statementGrade.csproj.CoreCompileInputs.cache
+/Users/walterbrunopradovieira/repos/statementGrade/statementGrade/bin/Debug/netcoreapp3.1/statementGrade.deps.json
+/Users/walterbrunopradovieira/repos/statementGrade/statementGrade/bin/Debug/netcoreapp3.1/statementGrade.runtimeconfig.json
+/Users/walterbrunopradovieira/repos/statementGrade/statementGrade/bin/Debug/netcoreapp3.1/statementGrade.runtimeconfig.dev.json
+/Users/walterbrunopradovieira/repos/statementGrade/statementGrade/bin/Debug/netcoreapp3.1/statementGrade.dll
+/Users/walterbrunopradovieira/repos/statementGrade/statementGrade/bin/Debug/netcoreapp3.1/statementGrade.pdb
+/Users/walterbrunopradovieira/repos/statementGrade/statementGrade/obj/Debug/netcoreapp3.1/statementGrade.dll
+/Users/walterbrunopradovieira/repos/statementGrade/statementGrade/obj/Debug/netcoreapp3.1/statementGrade.pdb
+/Users/walterbrunopradovieira/repos/statementGrade/statementGrade/obj/Debug/netcoreapp3.1/statementGrade.genruntimeconfig.cache
